@@ -1,0 +1,24 @@
+- On 1 June 2017, a Magistrate dismissed the charges of trafficking and possessing heroin brought against TUPPER.
+- On 25 October 2016, police went to TUPPER's house with a written authority to search his home for stolen goods. 
+- During the search of his house, TUPPER went to the bathroom with a police officer. The police officer later gave evidence that TUPPER was adjusting himself and he had a suspicion that he was going to conceal drugs.
+- A full search was conducted of TUPPER in his bedroom, where police found a secreted package containing heroin. 
+- Police gave evidence that they conducted the search under a common law, safety and evidence, search power. 
+- The Magistrate ended up dismissing the charges due to them forming the wrongful interpretation of s 464 being utilised incorrectly in this case. 
+- On appeal, the DPP argued that the search was not considered to be a 'physical examination of the body' and was rather, a common law safety and evidence search. 
+- In this appeal, it was established that police *do have a common law power to search a person*.
+	- They were hesitant to confine what that power might be in particular, but, concluded at [36]:
+	- "That is to say, there is no reason to stipulate that such a search can never involve the removal of all items of an arrested person’s clothing, as opposed to only some of them. Some circumstances may require a frisk over external clothing, or the removal of only outer clothing or, I expect in only rare circumstances, the removal of underclothing as well."
+- The court then considered whether the forensic procedure / physical examination provisions in the Crimes Act would overrule the common law search power.
+	- They ultimately concluded that subdiv 30A of the Crimes Act does not over rule the common law search power, due to:
+		- The Crimes (Amendment) Act 1993 does not expressly indicate it would interfere with any common law search powers.
+		- The 1993 Act's purpose was to provide new investigative powers to police (it added and did not remove powers).
+- The court then examined s 464R, 464S and 464T together with the definition of *physical examination* at s 464.
+	- These provisions were all put in after a Consultative Committee of Police Powers provided the government with the 'Coldrey Report.'
+	- They refer back to the original report for understanding what a *forensic procedure* might mean. Of note:
+		- "‘the conduct of _physical examinations to observe injuries such as bruises, cuts, scratches, and distinguishing marks_ such as tattoos, birth marks (and if appropriate photograph them);"
+	- They ultimately concluded that the definition of #physical-examination whilst not expressed in the Act itself, would include an examination of the external part of a body bearing a distinguishing mark or injury (see [55]).
+	- Further to this, they drew a line between a safety and evidence search being a duty discharged by police to ensure personal safety or preserve evidence, whilst the physical examination is to gather evidence which would tend to prove or disprove a commission of an offence.
+	- They added that a physical examination is an examination of the body itself to see if it has any distinctive markings on it. 
+- At [63] they provide a very helpful and clear interpretation of #physical-examination:
+	- "For the reasons I have explained, the proper construction of the words ‘physical examination of the body’ as they appear in the definition of ‘forensic procedure’ in the Act, means that such an examination is confined to a search of the body itself for distinguishing marks or injuries that may tend to confirm or disprove a relevant suspect’s involvement in the commission of a nominated offence."
+- This was an appeal of a decision by the Magistrate, and therefore the matter was remitted back to the Magistrates' Court on those charges to be decided.

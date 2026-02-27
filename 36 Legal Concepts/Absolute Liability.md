@@ -1,0 +1,1 @@
+Offences in which the defence of mistake of honest/reasonable fact is not available *and* there is no mens rea element. 

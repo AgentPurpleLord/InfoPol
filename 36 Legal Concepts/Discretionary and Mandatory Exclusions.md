@@ -1,0 +1,6 @@
+- If evidence is confusing, it can be limited or excluded.
+- Evidence is not prejudicial merely because it increases the likelihood of conviction.
+- Bray v R (2014) 45 VR 623 at 76 by Santamaria JA
+	- 76 As I understand the position, there is in fact a recording of what the complainant said during the committal hearing. In that sense, the jury will hear her both examined-in-chief and cross-examined. The question is not whether the presentation of evidence in that truncated form is a satisfactory substitute for seeing and hearing the complainant give her evidence at trial. Plainly, it is not. The critical question is: would it be necessarily unfair to have a conviction based upon evidence which cannot be the subject of cross-examination at trial? That question admits of only one answer. It would not be necessarily unfair. As has been said many times, “a defendant is entitled to a fair trial but not a perfect one”. 42
+- Johnston v The King [2023] VSCA 49
+- DPP v Marijancevic (2011) 33 VR 400
