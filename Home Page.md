@@ -12,5 +12,3 @@ For the full table of contents, please see the left-hand side. Each category con
 4. [[40 Frontline Policing]]: Policies and procedures for front-line uniform members.
 5. [[50 Prosecuting]]: Information focusing on a police prosecutors role.
 6. [[60.00 Question and Answers]]: Legal or procedural questions and their respective answers. 
-
-
