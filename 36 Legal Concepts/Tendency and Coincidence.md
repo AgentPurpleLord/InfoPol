@@ -1,5 +1,0 @@
-- Tendency = proving the accused sucks
-- Coincidence = proving identity (not what legislation says, just layman interpretation)
-- Elevates the credibility of other evidence.
-- Notice date is normally set by the Court at the Contest Mention.
-- 
