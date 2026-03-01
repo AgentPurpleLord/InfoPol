@@ -1,0 +1,1 @@
+An 'offence' means a reference to an act which holds criminal liability. These offences come from both statute (legislation) and common law (cases decided by the courts).
