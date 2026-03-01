@@ -1,0 +1,3 @@
+Where an Act or a provision of an Act is repealed and re-enacted (with or without modification) then, unless the contrary intention expressly appears— 
+(a) any reference in any Act or subordinate instrument to the repealed Act or provision shall be construed as a reference to the re-enacted Act or provision; and 
+(b) insofar as any subordinate instrument made or other thing done under the repealed Act or provision, or having effect as if so made or done, could have been made or done under the re-enacted Act or provision, it shall have effect as if made or done under the re-enacted Act or provision.

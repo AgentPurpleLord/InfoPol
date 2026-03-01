@@ -1,0 +1,13 @@
+- That nook near the cafe
+- Still trying to grab something out of the fridge, started attacking her.
+- Chick was able to push her off, took something from the fridge.
+- I said i'm off duty, call 000, I followed her from quite far behind.
+- She is hanging around chemist warehouse, hanging outside chemist warhehouse, standing next to the security guard, thought I was filming her
+- Started attacking me, im on the phone , clearly tell im on the phone. 
+- White scumbag. 
+- Have told the Sergeant and the Bosses.
+- Ambulance are going to come and check me out, didn't hit me in the stomach at all.
+- Hit me mainly in the arm, kept trying to attack me, trying to grab my phone and trying to punch me. I was able to push her and kick her off.
+- Work is going to investigate it and deal with it. 
+---
+Informant: 

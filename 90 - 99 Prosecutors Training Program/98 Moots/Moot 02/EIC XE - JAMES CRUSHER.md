@@ -1,0 +1,25 @@
+- You gave evidence that you run an Instagram account photographing graffiti, yes?
+- What do you enjoy about photographing graffiti?
+- How long have you been photographing graffiti?
+	- Would you agree, based on the exposure from that, you have a deep knowledge level of graffiti culture?
+		- ANSWER:
+	- e.g. do you know what 'R' circled means?
+		- ANSWER:
+	- So given you have good knowledge of graffiti; you're keenly aware of breach rule of photographing and posting another's work without crediting them, aren't you?
+		- ANSWER:
+	- Given your deep knowledge, you'd never breach the rules, would you?
+		- ANSWER:
+	- You are the artist behind 'CRUSSH' aren't you?
+		- ANSWER:
+- Police asked you for your details after you were arrested, didn't they?
+	- ANSWER:
+	- And you gave your name as 'James', and only "James" didn't you?
+		- ANSWER:
+	- And you only gave your first name, because your Surname is Crusher, correct?
+		- ANSWER:
+	- You did that, because you were worried about your tag, CRUSSH, being so similar to CRUSHER, weren't you?
+		- ANSWER:
+- Has something like this ever happened to you before?
+	- E.g. were you previously arrested by police?
+	- They arrested you for doing the same tag, didn't they?
+	- What would you say, if I say that you are the man behind CRUSSH?

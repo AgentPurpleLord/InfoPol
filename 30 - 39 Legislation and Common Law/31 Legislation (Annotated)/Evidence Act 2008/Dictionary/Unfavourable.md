@@ -1,0 +1,7 @@
+Relating to *unfavourable witnesses*, it is not defined within the Act.
+The common law definition is that it means "*not favourable*."
+The dictionary defines it as: expressing or showing a lack of approval or support.
+
+[[Saddik v The Queen 2018 VSCA 249.pdf]] Paragraph 79 is ratio for it.
+
+"It is well-established that the prosecution does not warrant the truthfulness of its witnesses. Accordingly, the prosecution is not obliged to accept the evidence given by any particular witness called by it. 6 That is because the prosecution has the obligation to present its case in conformity with the requirements of fairness to an accused person, and, as such, is ordinarily required to call all relevant witnesses in the trial, unless there is a good objective reason for not doing so. 7 Consequently, a prosecutor is entitled to invite a jury to accept the evidence of one particular witness in preference to another. In an appropriate case, a prosecutor may be entitled to put to the jury that the prosecution does not put forward a particular witness as a witness of truth, provided that the prosecutor has an appropriate basis for such a submission. In particular, the prosecutor may be able to rely on circumstances such as an internal inconsistency within the evidence of a particular witness, or on the fact that the witness's evidence is contradicted by other evidence in the case, or on the fact that the witness's evidence is inherently improbable."

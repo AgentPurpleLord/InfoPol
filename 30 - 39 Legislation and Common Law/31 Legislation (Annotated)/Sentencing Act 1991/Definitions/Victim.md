@@ -1,0 +1,1 @@
+*victim*, in relation to an offence, means a person who, or body that, has suffered injury, loss or damage (including grief, distress, trauma or other significant adverse effect) as a direct result of the offence, whether or not that injury, loss or damage was reasonably foreseeable by the offender;

@@ -1,0 +1,42 @@
+The Australian Constitution is Australia's supreme law. It provides a framework of all other laws in Australia. It was passed in 1900 to ensure cooperation between states. 
+
+# Court Structure
+- Supreme Court is the highest court in Victoria. 
+	- Established in 1852.
+	- Headed by Chief Justice of Victoria. 
+	- Two divisions:
+		- Court of Appeal
+			- Headed by the President of the Court of Appeal.
+			- Hears appeals from the Trial Division or other courts/tribunals.
+			- Usually three judges will hear an appeal, but up to five can.
+			- An #appeal is when "one party to a case disagrees with the decision given by the court and seeks a review from a higher court."
+		- Trial Division
+			- Hears major criminal matters, including murder, and civil cases involving large sums of money or complex legal matters.
+			- Twelve jury members sit for a criminal trial. 
+			- If a jury is empanelled in a civil matter, there are six jury members.
+			- Most trials take seven to ten days, but they can take longer.
+	- The only court higher is the High Court of Australia.
+- The County Court of Victoria sits in the middle of the hierarchy.
+	- Hears civil, criminal and criminal appeal matters.
+	- More serious than the Magistrates' Court.
+- The Magistrates' Court of Victoria
+	- Handles criminal, civil and some family law matters.
+	- Also operates:
+		- Drug Court
+			- Power to sentence offenders to a Drug Treatment Order.
+		- Assessment and Referral Court
+			- Persons accused of crime with a #mental-impairment 
+			- More informal than the normal Magistrates' Court.
+			- Venues are Melbourne, Frankston, Moorabbin, Latrobe and Korumburra.
+		- Koori Court
+			- Court for Aboriginal peoples.
+			- Magistrate sits with Aboriginal Elders, all sit around a table. 
+		- Neighbourhood Justice Centres
+		- Family Violence Court Division
+			- Handled intervention order cases, pleas to criminal cases, bail applications, victims of crime, etc. 
+			- Can order Men's Behaviour Change Programs. 
+		- Children's Court of Victoria
+	- Sits in 51 locations, hear most of the cases that reach court in Victoria. 
+	- Conducts committal hearings to determine if enough evidence / serious case to proceed to County or Supreme Court.
+	- Bail Hearings are conducted too.
+	- Civil disputes $100,000 or less.

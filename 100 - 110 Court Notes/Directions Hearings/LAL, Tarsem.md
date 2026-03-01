@@ -1,0 +1,2 @@
+Only reports made to police are from 2024 prior to the final order being made. Police investigated this and he was found guilty on the charges on 22/05/2025; persistent contravention, with conviction $750 fine. 
+No new reports recorded by police. 

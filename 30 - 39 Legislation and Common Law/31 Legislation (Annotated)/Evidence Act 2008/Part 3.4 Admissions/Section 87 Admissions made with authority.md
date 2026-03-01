@@ -1,0 +1,12 @@
+---
+cssclasses:
+  - legislation-list
+---
+> 1. For the purpose of determining whether a previous representation made by a person is also taken to be an admission by a party, the court is to admit the representation if it is reasonably open to find that—
+> 	1. when the representation was made, the person had authority to make statements on behalf of the party in relation to the matter with respect to which the representation was made; or
+> 	2. when the representation was made, the person was an employee of the party, or had authority otherwise to act for the party, and the representation related to a matter within the scope of the person's employment or authority; or
+> 	3. the representation was made by the person in furtherance of a common purpose (whether lawful or not) that the person had with the party or one or more persons including the party.
+> 2. For the purposes of this section, the hearsay rule does not apply to a previous representation made by a person that tends to prove—
+> 	1. that the person had authority to make statements on behalf of another person in relation to a matter; or
+> 	2. that the person was an employee of another person or had authority otherwise to act for another person; or
+> 	3. the scope of the person's employment or authority.

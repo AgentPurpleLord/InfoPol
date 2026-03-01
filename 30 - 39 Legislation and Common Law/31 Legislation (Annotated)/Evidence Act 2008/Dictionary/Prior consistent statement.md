@@ -1,0 +1,1 @@
+*prior consistent statement* of a witness means a previous representation that is consistent with evidence given by a witness.

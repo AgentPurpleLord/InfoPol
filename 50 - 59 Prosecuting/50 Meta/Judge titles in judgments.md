@@ -1,0 +1,30 @@
+- ACJ - Acting Chief Justice
+- AJA - Acting Justice of Appeal
+- AJJA - Acting Justices of Appeal
+- AJ - Acting Justice
+- AJJ - Acting Justices
+- AP - Acting President
+- AsJ - Associate Justice
+- AUJ - Auxiliary Judge
+- CJA - Chief Judge Administrator
+- CJ at CL - Chief Judge at Common Law
+- CJ in Eq - Chief Judge in Equity
+- CJ Comm D - Chief Judge of the Commercial Division
+- CJ - Chief Justice
+- Commissioner - Commissioner
+- DCJ - Deputy Chief Justice/District Court Judge
+- FM - Federal Magistrate
+- Judge - Judge
+- JR - Judicial Registrar
+- JA - Justice of Appeal
+- JJA - Justices of Appeal
+- J - Justice
+- JJ - Justices
+- Magistrate - Magistrate
+- Master - Master
+- P - President
+- SJA - Senior Judge Administrator
+- SJ - Senior Judge
+- SJJ - Senior Judges
+- SPJ - Senior Puisne Judge
+- V-P - Vice-President

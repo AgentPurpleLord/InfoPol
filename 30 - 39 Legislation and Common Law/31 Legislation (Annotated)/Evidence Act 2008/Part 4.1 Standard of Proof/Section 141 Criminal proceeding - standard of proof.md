@@ -1,0 +1,2 @@
+(1) In a criminal proceeding, the court is not to find the case of the prosecution proved unless it is satisfied that it has been proved beyond reasonable doubt.
+(2) In a criminal proceeding, the court is to find the case of an accused proved if it is satisfied that the case has been proved on the balance of probabilities.

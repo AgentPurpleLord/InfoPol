@@ -1,0 +1,6 @@
+>1. Whether or not a person (A) reasonably believes that another person (B) is consenting to an act depends on the circumstances.
+>2. A's belief that B consents to an act is not reasonable if, within a reasonable time before or at the time the act takes place, A does not say or do anything to find out whether B consents to the act.
+>3. Subsection (2) does not apply if—
+>	1. A has a cognitive impairment or mental illness (other than the effects of intoxication that is self-induced within the meaning of [section 36B](https://anzlaw.thomsonreuters.com/Link/Document/FullText?refType=U5&docFamilyGuid=I9bb02501035011e99495db3043f758b0&pubNum=1100190&originationContext=document&transitionType=DocumentItem&docVersion=Law+in+Force&ppcid=7cb945dc3db64829884fa64853d84767&contextData=\(sc.Document\)) ); and
+>	2. that cognitive impairment or mental illness is a substantial cause of A not saying or doing anything to find out whether B consents to the act.
+>4. A bears the burden of proving on the balance of probabilities the matters referred to in subsection (3) .

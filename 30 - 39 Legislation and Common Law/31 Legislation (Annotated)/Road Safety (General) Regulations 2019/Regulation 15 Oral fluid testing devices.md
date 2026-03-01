@@ -1,0 +1,2 @@
+(1)     For the purposes of [[Section 55D Preliminary oral fluid tests|section 55D]] of the Act, the prescribed device is the oral fluid testing device known as the SECURETEC DRUGWIPE TWIN or the SECURETEC DRUGWIPE II TWIN.
+(2)     For the purposes of section 55E of the Act, the prescribed device is the oral fluid testing device known as the SECURETEC DRUGWIPE II TWIN COMBO.

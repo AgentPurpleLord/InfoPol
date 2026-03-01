@@ -1,0 +1,7 @@
+[[Section 101A Credibility evidence]]
+[[Section 102 The credibility rule]]
+[[Section 103 Exception - cross-examination as to crediblity]]
+[[Section 104 Further protections-cross-examination as to credibility]]
+[[Section 106 Exception-rebutting denials by other evidence]]
+[[Section 108A Admissibility of evidence of credibility of person who has made a previous representation]]
+[[Section 108B Further protections—previous representations of an accused who is not a witness]]

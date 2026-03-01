@@ -1,0 +1,11 @@
+[[Admission]]
+[[Case]]
+[[Credibility]]
+[[Document]]
+[[Leading Question]]
+[[30 - 39 Legislation and Common Law/31 Legislation (Annotated)/Evidence Act 2008/Dictionary/Previous representation|Previous Representation]]
+[[Probative value]]
+[[Representation]]
+[[Unavailability]]
+
+Back to [[Evidence Act 2008]]

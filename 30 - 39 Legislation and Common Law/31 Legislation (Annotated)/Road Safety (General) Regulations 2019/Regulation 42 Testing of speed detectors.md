@@ -1,0 +1,3 @@
+For the purposes of section 79 of the Act, the prescribed manner of testing a speed detector is that the testing officer who tests the device— 
+(a) is satisfied that the device is in a satisfactory electrical condition; and 
+(b) is satisfied that the device is properly calibrated so that it indicates the speed readings within a limit of error not greater or less than 2 km per hour of the true speeds.

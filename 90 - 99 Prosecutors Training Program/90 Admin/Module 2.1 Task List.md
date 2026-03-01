@@ -1,0 +1,21 @@
+[Course: Graduate Certificate in Police Prosecution- 2023-24 , Topic: Module 2.1](https://vplh.police.vic.gov.au/course/view.php?id=5156&section=9)
+# Pre-Reading
+- [ ] Intoxication (Ross on Crime) [9.3800 – 9.3865]
+- [ ] Causation (Ross on Crime) [3.700 – 3.780]
+- [ ] Mens Rea (Ross on Crime) [13.2300 – 13.2350]
+- [ ] The elements of a crime [GPOCL.100]
+- [ ] Mens rea: Intention, recklessness and negligence [18.10 – 18.160]
+- [ ] Causation [19.10 – 19.140]
+- [ ] Criminal defences [23.20 – 23.40]
+- [ ] Criminal Charge Book Voluntariness 7.1.1
+- [ ] Criminal Charge Book Causation 7.1.3
+- [ ] Criminal Charge Book Automatism 8.8
+- [ ] Criminal Charge Book Intoxication 8.6
+- [ ] Ross on Crime - Strict Liability [19.6100 – 19.6150]
+- [ ] Criminal Law, Investigation and Procedure Victoria - Offences Relating to the Good Order and Licensing of drivers (ss 17–33B)
+- [ ] Ross on Crime - Incitement [9.1200 – 9.1255], Attempt [1.6600 – 1.6630] and Conspiracy [3.6500 – 3.6625]
+- [ ] Criminal Law, Investigation and Procedure Victoria - Attempts (ss 321M–321S), Incitement (ss 321G–321L) and Conspiracy (ss 321–321F)
+- [ ] Indictable Offences in Victoria - Inchoate offences: general[8.10 – 8.30], Attempt[9.10 – 9.160], Conspiracy[10.10 – 10.250] and Incitement[11.10 – 11.120]
+- [ ] Judicial College of Victoria - Criminal Charge Book Part 6: Conspiracy, Incitement and Attempts and Victorian Criminal Proceedings Manual 2.9.12.2.1 Incitement Victorian scheme
+- [ ] Ross on Crime - Prosecutor should not put an unstainable theory [16.7035]
+- [ ] 

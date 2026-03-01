@@ -1,0 +1,2 @@
+- RHYS KATON: Managing consolidated pleas is difficult, regarding notes in particular, there is a large amount of duplicative data being input into the system which is frustrating.
+- Emma: I want to be able to type in the date

@@ -1,0 +1,5 @@
+[_De Moor v Davies_ [1999] VSC 416](https://anzlaw.thomsonreuters.com/Link/Document/FullText?refType=U2&serNum=1999475560&pubNum=0006090&originationContext=document&transitionType=DocumentItem&ppcid=cbbf7ee0ae924154a4b33cba1caae564&contextData=\(sc.Keycite\)) at [15].
+… does not confine the apprehending person to finding an offender actually engaged in carrying out the offence. The section extends the point of discovery of the commission of the offence to encompass the actual perpetration of the offence, alternatively, to finding a person behaving or conducting him or herself so as to create a reasonable belief of guilt or, alternatively, to find a person in such circumstances so as to create a reasonable belief of guilt.
+
+# Submission
+- **ACCUSED FOUND IN CIRCUMSTANCES WHICH CREATED REASONABLE BELIEF OF GUILT; WALKED AWAY UPON PERSON SEEING HIM.**

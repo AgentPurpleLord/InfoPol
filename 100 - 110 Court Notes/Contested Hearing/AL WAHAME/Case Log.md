@@ -1,0 +1,8 @@
+- 2025-12-29: Email from G. WATSON about potential withdrawal:
+	- Informant suspicion is irrelevant; Magistrate must be the one who finds it is reasonable to suspect property is proceeds of crime.
+	- Circumstances do give rise for prima facie reasonable suspicion (*I agree*).
+	- Just because evidence supports that he has possessed some items for a considerable period of time doesn't necessarily satisfy the burden on accused; it only proves that he has had those items for a longer period of time. (**UNSURE; RESEARCH FURTHER**)
+	- Want more than just a stat dec from the friend, want them to give evidence or receipts (*I agree*)
+	- If Rolex is a fake, have informant take to a jeweller and verify (*I am going to have to inspect this watch at some stage, take detailed photographs of it*)
+	- Biggest issue is how the charge is framed; charge includes all property; out of statute; cannot be amended (*I agree*)
+	- 

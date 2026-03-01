@@ -1,0 +1,1 @@
+>A charge for a summary offence is to be heard and determined summarily in accordance with this Chapter or, if the case requires, Division 1 of Part 5.8.

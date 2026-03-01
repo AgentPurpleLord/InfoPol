@@ -1,0 +1,6 @@
+- [[Section 1A - Purpose]]
+- [[Section 1B - Guiding principles]]
+- [[Section 3A - Determination in relation to an Aboriginal person]]
+- [[Section 3AAA - Surrounding circumstances]]
+- [[Section 3AAAA - Meaning of vulnerable adult]]
+- [[Section 3B - Determination in relation to a child]]

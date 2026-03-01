@@ -1,0 +1,1 @@
+"informant" means a person who commences a criminal proceeding in the Magistrates' Court;

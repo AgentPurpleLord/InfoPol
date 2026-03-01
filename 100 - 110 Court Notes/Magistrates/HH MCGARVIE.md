@@ -1,0 +1,1 @@
+- 15/12/2025; 2x bail apps; FV offending; clearly dislikes violent offending towards women; made comments in both bail apps that it was unacceptable behaviour. 

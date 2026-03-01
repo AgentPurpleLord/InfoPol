@@ -1,0 +1,2 @@
+- Victim, I hate doing victim blaming, she has admitted that she has threatened to key this guys car twice. Don't klnow if she was charged, etc.
+- 

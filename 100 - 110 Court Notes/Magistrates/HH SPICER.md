@@ -1,0 +1,1 @@
+- 16/12/2025; sentenced 1x male with intellectual disability; schizophrenia; 1x prior for sex act at another (adj undertaking); 2x further of same; adj undertaking with conviction; very pro-defence and hard to wittle down re: verdins principles.

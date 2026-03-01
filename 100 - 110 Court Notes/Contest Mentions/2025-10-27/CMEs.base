@@ -1,0 +1,28 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.path.contains("2025-10-27")
+        - file.ext != "base"
+    order:
+      - file.name
+      - Prosecution Position
+      - charges
+      - case type
+      - Accused
+      - informant
+      - Est Contest Hearing Time
+      - solicitor
+      - Witnesses
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: solicitor
+        direction: DESC
+    columnSize:
+      file.name: 174
+      note.charges: 63
+      note.Accused: 222
+      note.informant: 239
+      note.solicitor: 130

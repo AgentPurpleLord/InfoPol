@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "100 - 110 Court Notes/Contest Mentions/2025-09-22"
+        - file.ext != "base"
+    order:
+      - file.name
+      - case type
+      - charges
+      - informant
+      - Prosecution Position
+      - outcome
+    sort: []
+    columnSize:
+      file.name: 217
+      note.case type: 104

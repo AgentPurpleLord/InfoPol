@@ -1,0 +1,8 @@
+(1)     A police officer may at any time require—
+	(a)     any person he or she finds driving a motor vehicle or in charge of a motor vehicle; or
+	(b)     the driver of a motor vehicle that has been required to stop, and remain stopped at a preliminary testing station under section 54(3); or
+	(c)     any person who he or she believes on reasonable grounds has within the last 3 preceding hours driven or been in charge of a motor vehicle when it was involved in an accident; or
+	(d)     any person who he or she believes on reasonable grounds was, within the last 3 preceding hours, an occupant of a motor vehicle when it was involved in an accident, if it has not been established to the satisfaction of the police officer which of the occupants was driving or in charge of the motor vehicle when it was involved in the accident—to undergo a preliminary breath test by a prescribed device.
+(2)     An employee in the Department who is authorised in writing by the Secretary or the Head, Transport for Victoria, or a member of staff of the Regulator authorised in writing, by the Secretary, as the case requires, for the purposes of this section may at any time require any person he or she finds driving a commercial motor vehicle or in charge of a commercial motor vehicle to undergo a preliminary breath test by a prescribed device.
+(3)     A person required to undergo a preliminary breath test must do so by exhaling continuously into the device to the satisfaction of the police officer or the employee in the Department or the member of staff of the Regulator.
+(4)     A person is not obliged to undergo a preliminary breath test if more than 3 hours have passed since the person last drove, was an occupant of or was in charge of a motor vehicle.

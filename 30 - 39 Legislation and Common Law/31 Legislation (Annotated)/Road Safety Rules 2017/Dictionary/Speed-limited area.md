@@ -1,0 +1,2 @@
+**As defined at rr 22**
+The speed-limit applying to a driver for any length of road in a speed-limited area is the number of kilometres per hour indicated by the number on the area speed-limit sign on a road into the area, unless another speed-limit applies to the driver for the length of road under another rule of this Part.

@@ -1,0 +1,2 @@
+Factors to consider include:
+- 

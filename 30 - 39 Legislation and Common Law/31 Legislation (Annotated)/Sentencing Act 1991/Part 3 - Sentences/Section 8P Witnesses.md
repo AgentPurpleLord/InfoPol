@@ -1,0 +1,3 @@
+> (1) A victim, or a person who has made a victim impact statement on behalf of a victim, may call a witness to give evidence in support of any matter contained in the victim impact statement or in a medical report attached to it. 
+> (2) A witness who gives evidence under subsection (1) may be cross-examined and re-examined. 
+> (3) Any party to the proceeding may lead evidence on any matter contained in a victim impact statement or in a medical report attached to it.

@@ -1,0 +1,30 @@
+formulas:
+  Untitled: ""
+  informant: ""
+properties:
+  formula.informant:
+    displayName: "1"
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.path.contains("2025-06-30")
+        - file.ext != "base"
+    order:
+      - file.name
+      - charges
+      - Prosecution Position
+      - informant
+      - case type
+      - solicitor
+    columnSize:
+      file.name: 207
+      note.charges: 51
+      note.Prosecution Position: 174
+      note.informant: 138
+      note.case type: 96
+      note.solicitor: 225
+    imageFit: contain
+  - type: cards
+    name: Cards

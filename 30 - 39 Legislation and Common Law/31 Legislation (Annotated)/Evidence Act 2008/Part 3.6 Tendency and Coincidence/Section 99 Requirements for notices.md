@@ -1,0 +1,1 @@
+>Notices given under section 97 or 98 are to be given in accordance with any [[Regulation 8 The tendency rule and the coincidence rule—form of notices|regulations]] or rules of court made for the purposes of this section. 

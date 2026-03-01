@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder.contains("Criminal Procedure Act 2009")
+        - file.ext != "base"
+    sort:
+      - property: file.path
+        direction: ASC
