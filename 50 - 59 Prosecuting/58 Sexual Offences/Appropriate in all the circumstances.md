@@ -1,0 +1,8 @@
+- The primary question is the *degree of risk*. 
+	- Magnitude and nature of the risk; and
+	- Gravity of the possible harm; and
+	- Likelihood of the risk eventuating.
+- Considerations must be balanced against the *onerous nature* of the reporting conditions that would be imposed. 
+- An expert report may help the court assess the level of risk, but the absence of a report is not determinative.
+- Faulty expert reports can lead to appealable error:
+	- Sing v R, expert report re: reoffending referred to previous charge of similar nature. Previous charge was actually an earlier allegations that never went to trial. Court of Appeal held that use of the report, which was affected by discontinued charge, led judge to take into account irrelevant details. 

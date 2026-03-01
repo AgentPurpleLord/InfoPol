@@ -1,0 +1,5 @@
+- The risk must be *real* and not *fanciful*.
+	- As in it must be more than theoretical, remote or imagined.
+- Example is R v Chan, aged 26 at time of offending had committed other sexual offences at age of 11-13. Psych evidence indicated slight chance of re-offending. This was not sufficient level of risk to justify making of a sex offender registration order.
+- The risk must be *to the sexual safety of one or more persons or of the community*. Not necessary to identify a risk to a particular person or community group.
+- The risk need not only be physical, this risk can also be psychological wellbeing. 
