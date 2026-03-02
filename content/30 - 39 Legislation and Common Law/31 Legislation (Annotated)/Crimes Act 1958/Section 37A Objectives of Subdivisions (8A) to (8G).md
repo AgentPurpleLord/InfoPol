@@ -1,0 +1,4 @@
+>The objectives of Subdivisions (8A) to (8G) are—
+>	(a) to uphold the fundamental right of every person to make decisions about their sexual behaviour and to choose whether or not to engage in sexual activity;
+>	(ab) to promote the principle that consent to an act is not to be assumed—that consent involves ongoing and mutual communication and decision-making between each person involved (that is, each person should seek the consent of each other person in a way and at a time that makes it clear whether they consent);
+>	(b) to protect children and persons with a cognitive impairment or mental illness from sexual exploitation.

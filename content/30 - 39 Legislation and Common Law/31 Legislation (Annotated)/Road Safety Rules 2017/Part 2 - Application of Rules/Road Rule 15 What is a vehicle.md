@@ -1,0 +1,8 @@
+A **_vehicle_** includes– 
+(a) a motor vehicle, trailer and tram; and 
+(b) a bicycle; and 
+(ba) an electric scooter); and 
+(c) an animal-drawn vehicle, and an animal that is being ridden or drawing a vehicle; and 
+(d) a combination; and
+(e) a motorised wheelchair that can travel at over 10 kilometres per hour (on level ground)— 
+but does not include another kind of wheelchair, a train, a wheeled recreational device, a wheeled toy or an electric personal transporter.

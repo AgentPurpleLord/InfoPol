@@ -1,0 +1,10 @@
+
+| Offence                             | Section         | Offence (on/after) | Requirement                                                                    | Minimum Period                                                       | RSA Provisions    |
+| ----------------------------------- | --------------- | ------------------ | ------------------------------------------------------------------------------ | -------------------------------------------------------------------- | ----------------- |
+| Exceed Spd 25 - 34kph               | RR 20 RSA s 65B | 01/11/2018         | Holds Victorian Licence = Suspension<br><br>All other cases = disqualification | 3 months                                                             | 28 RSA Schedule 5 |
+| Exceed Spd 35 - 44kph               | As above        | 01/01/2009         | As above                                                                       | 6 months                                                             | As above          |
+| Exceed Spd 45kph or more            | As above        | 01/01/2009         | As above                                                                       | 12 months                                                            | As above          |
+| 20 - 24kph in a 110 zone            | As above        | 01/11/2018         | As above                                                                       | 3 months                                                             | As above          |
+| Dangerous Driving / Speed Dangerous | RSA s 64        | 01/01/2009         | Mandatory Disqualification                                                     | Excessive speed of 45kph/more is 12 months<br><br>Otherwise 6 months | 64(2)             |
+|                                     |                 |                    |                                                                                |                                                                      |                   |
+

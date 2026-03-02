@@ -1,0 +1,1 @@
+amended, in relation to a subordinate instrument, includes altered or varied; 

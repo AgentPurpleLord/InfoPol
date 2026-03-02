@@ -1,0 +1,4 @@
+For the purposes of [[Section 55D Preliminary oral fluid tests|section 55D]] of the Act, the prescribed procedure for carrying out a preliminary oral fluid test is that the police officer or person authorised under section 55D(2) of the Act who conducts the test—
+        (a)     provides a fresh oral fluid collection unit for use by a person required to provide a preliminary oral fluid sample; and
+        (b)     uses only an oral fluid collection unit that, until required for taking the oral fluid sample, has been kept in a sealed container; and
+        (c)     tests the oral fluid sample by using the device, or the oral fluid testing unit that is part of the device, that was used to obtain the sample.

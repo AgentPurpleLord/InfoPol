@@ -1,0 +1,1 @@
+statement includes any representation of fact whether made in words or otherwise. (2) A reference in this Act to a document includes a reference to— (a) any part of the document; or (b) any copy, reproduction or duplicate of the document or of any part of the document; or (c) any part of such a copy, reproduction or duplicate.

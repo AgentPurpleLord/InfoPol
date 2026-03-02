@@ -1,0 +1,10 @@
+(1) A warrant issued by a registrar, judicial registrar, magistrate or bail justice may be recalled and cancelled by— 
+	(a) that registrar, judicial registrar, magistrate or bail justice; or 
+	(ab) if issued by a judicial registrar, any other judicial registrar; or 
+	(b) if issued by a registrar, the registrar for the time being at the venue of the Court at which it was issued or, except in the case of an enforcement warrant issued under the Fines Reform Act 2014, any other registrar; or 
+	(c) a magistrate. 
+(1A) If a warrant has been recalled and cancelled under subsection (1), a fresh warrant may be issued for the same purpose as that for which the recalled warrant was issued. 
+(2) A warrant to imprison or detain in a youth justice centre for non-payment of a fine (whether issued before or after the commencement of this section) is null and void if it has not been executed within the period of 5 years after a warrant of that type was first issued against the person named in the warrant for the purpose specified in the warrant. 
+(2A) If a warrant referred to in subsection (2) becomes null and void under that subsection, the fine in respect of which it was issued, together with any associated fees and costs, ceases to be enforceable or recoverable if no part of the fine had been paid before the date on which the warrant became null and void.
+(3) Nothing in subsection (2) or (2A) prevents the issue, with the leave of the Court, of a fresh warrant for the same purpose as that for which a warrant that has become null and void under subsection (2) was issued. 
+(4) Despite subsection (2), if under subsection (3) a fresh warrant is issued, the fine in respect of which it was issued, together with any associated fees and costs, again becomes enforceable or recoverable as if there had been no cessation.

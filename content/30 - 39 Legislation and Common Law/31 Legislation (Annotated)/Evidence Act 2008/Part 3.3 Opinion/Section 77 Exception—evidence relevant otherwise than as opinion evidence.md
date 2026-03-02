@@ -1,0 +1,1 @@
+> The opinion rule does not apply to evidence of an opinion that is admitted because it is relevant for a purpose other than proof of the existence of a fact about the existence of which the opinion was expressed.

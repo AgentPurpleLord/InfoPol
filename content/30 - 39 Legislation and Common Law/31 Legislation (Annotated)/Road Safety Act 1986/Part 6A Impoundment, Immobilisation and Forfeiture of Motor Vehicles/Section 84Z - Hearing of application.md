@@ -1,0 +1,1 @@
+(2) The court must not make an impoundment/immobilisation order if the registered operator of the motor vehicle that was used in the commission of the relevant offence can prove to the court's satisfaction that the relevant offence was committed without the knowledge of consent of the registered operator. 

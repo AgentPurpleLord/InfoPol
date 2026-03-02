@@ -1,0 +1,1 @@
+A court, on being satisfied that a person is guilty of an offence, may (without recording a conviction) dismiss the charge.

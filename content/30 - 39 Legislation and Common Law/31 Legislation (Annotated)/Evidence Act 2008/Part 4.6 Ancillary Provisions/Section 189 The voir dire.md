@@ -1,0 +1,26 @@
+---
+cssclasses:
+  - legislation-list
+---
+
+> 1. If the determination of a question whether—
+> 	1. evidence should be admitted (whether in the exercise of a discretion or not); or
+> 	2. evidence can be used against a person; or
+> 	3. a witness is competent or compellable—
+> 
+> depends on the court finding that a particular fact exists, the question whether that fact exists is, for the purposes of this section, a preliminary question.
+    (2)     If there is a jury, a preliminary question whether—
+        (a)     particular evidence is evidence of an admission, or evidence to which section 138 (Discretion to exclude improperly or illegally obtained evidence) applies; or
+        (b)     evidence of an admission, or evidence to which section 138 applies, should be admitted—
+is to be heard and determined in the jury's absence.
+    (3)     In the hearing of a preliminary question about whether an admission made by an accused should be admitted into evidence (whether in the exercise of a discretion or not) in a criminal proceeding, the issue of the admission's truth or untruth is to be disregarded unless the issue is introduced by the accused.
+    (4)     If there is a jury, the jury is not to be present at a hearing to decide any other preliminary question unless the court so orders.
+    (5)     Without limiting the matters that the court may take into account in deciding whether to make such an order, it is to take into account—
+        (a)     whether the evidence to be adduced in the course of that hearing is likely to be prejudicial to the accused; and
+        (b)     whether the evidence concerned will be adduced in the course of the hearing to decide the preliminary question; and
+        (c)     whether the evidence to be adduced in the course of that hearing would be admitted if adduced at another stage of the hearing (other than in another hearing to decide a preliminary question or, in a criminal proceeding, a hearing in relation to sentencing).
+    (6)     Section 128(10) does not apply to a hearing to decide a preliminary question.
+    (7)     In the application of Chapter 3 to a hearing to determine a preliminary question, the facts in issue are taken to include the fact to which the hearing relates.
+    (8)     If a jury in a proceeding was not present at a hearing to determine a preliminary question, evidence is not to be adduced in the proceeding of evidence given by a witness at the hearing unless—
+        (a)     it is inconsistent with other evidence given by the witness in the proceeding; or
+        (b)     the witness has died.

@@ -1,0 +1,1 @@
+*vehicle* means a conveyance that is designed to be propelled or drawn by any means, whether or not capable of being so propelled or drawn, and includes bicycle or other pedal-powered vehicle, trailer, tram-car and air-cushion vehicle but does not include railway locomotive or railway rolling stock;

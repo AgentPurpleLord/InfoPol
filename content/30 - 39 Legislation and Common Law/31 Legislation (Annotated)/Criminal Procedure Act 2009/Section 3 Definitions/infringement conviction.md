@@ -1,0 +1,1 @@
+"infringement conviction" means an infringement notice that has taken effect as a conviction of the offence specified in the notice;

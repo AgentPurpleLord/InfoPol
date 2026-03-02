@@ -1,0 +1,4 @@
+An interim order may be made for more than one affected family member if— 
+	(a) the court is satisfied under [[Section 53 Court may make interim order|section 53]](1)(a) in relation to each of the affected family members; or
+	(b) all the parties to the proceeding have given consent, or are not opposed to the making of the order, in accordance with [[Section 53 Court may make interim order|section 53]](1)(b); or 
+	(c) a family violence safety notice has been issued for each of the affected family members and the court is satisfied under [[Section 53 Court may make interim order|section 53]](1)(c) in relation to each of the family members.

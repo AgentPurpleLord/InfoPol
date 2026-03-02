@@ -1,0 +1,3 @@
+For the purposes of section 79 of the Act, the prescribed manner of sealing a speed detector is that the speed detector is sealed— 
+(a) by the testing officer who carried out the test under regulation 42; and 
+(b) with a seal or electronic seal, or combination of both, that effectively prevents interference with the time measuring or speed computing components of the device without breaking the seal.

@@ -1,0 +1,1 @@
+*bond condition* means a condition that may be attached to a community correction order under section 48JA(1);

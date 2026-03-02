@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder.contains("Legislation (Annotated)")
+        - file.ext == "base"
+        - file.name != "31.00 Legislation Index.base"
+    order:
+      - file.name
+    sort:
+      - property: act
+        direction: ASC
+    columnSize:
+      note.act: 277

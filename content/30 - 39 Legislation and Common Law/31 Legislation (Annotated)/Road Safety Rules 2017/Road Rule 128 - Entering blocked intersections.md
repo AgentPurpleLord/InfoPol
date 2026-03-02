@@ -1,0 +1,8 @@
+A driver **must not enter an intersection** if the **driver cannot drive through the intersection** because the intersection, or a road beyond the intersection, is blocked.
+Penalty: 3 penalty units.
+
+**Examples**
+The intersection, or a road beyond the intersection, may be blocked by congested traffic, a disabled vehicle, a collision between vehicles or between a vehicle and a pedestrian, or by a fallen load on the road.
+
+**Note**
+Enter and intersection are defined in the dictionary.

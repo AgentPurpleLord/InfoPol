@@ -1,0 +1,44 @@
+# Section 3AAA - Surrounding Circumstances
+Provided in the [Bail Act 1977 Section 3AAA - Surrounding Circumstances](http://www8.austlii.edu.au/cgi-bin/viewdoc/au/legis/vic/consol_act/ba197741/s3aaa.html)) & outlined below:
+
+- Nature & seriousness of offending
+- Strength of prosecution case
+- Accused's criminal history
+- Compliance with bail conditions granted earlier
+- At the time of the offending, for any other offence were they:
+	- On Bail?
+	- Subject to Summons?
+	- Awaiting Trial (Warrant)?
+	- Parole Order?
+	- CCO?
+- Whether there was in force:
+	- FVIO against accused; or
+	- FVSN against accused; or
+	- DVO against accused
+- Accused's:
+	- Personal circumstances 
+	- Association
+	- Home environment
+		- Child: Cannot solely refuse bail based on accommodation.
+	- Background
+- Vulnerability of Accused:
+	- Aboriginal outlined in [Section 3A](http://www8.austlii.edu.au/cgi-bin/viewdoc/au/legis/vic/consol_act/ba197741/s3a.html)  being:
+		- The accused's cultural background including ties to family or place; and
+		- Any other relevant cultural issue or obligation
+	- Child outlined in [Section 3B](http://www8.austlii.edu.au/cgi-bin/viewdoc/au/legis/vic/consol_act/ba197741/s3b.html)
+		- All other options considered first; and
+		- Need to preserve relationship between child & family/guardian/carer; and
+		- Living arrangements to continue without disturbance; and
+		- Allowing education, training, employment to continue without disturbance; and
+		- Minimise stigma of child from being remanded in custody; and
+		- Likely sentence of child being remanded in custody; and
+		- Need to ensure conditions of bail are only necessary / not unfair to child
+	- Aboriginal
+	- Ill health
+	- Cognitive impairment
+	- Intellectual disability
+	- Mental illness
+- Availability of Treatment or Bail Support Services
+- Victims views on Bail
+- Length of time accused will spend in custody if bail refused
+- Sentence length if found guilty

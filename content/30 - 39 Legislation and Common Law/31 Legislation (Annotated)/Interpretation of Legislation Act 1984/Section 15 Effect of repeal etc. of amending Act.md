@@ -1,0 +1,4 @@
+> (1) Where an Act or a provision of an Act, being an Act or provision that directly amended another Act or a subordinate instrument (whether by the insertion of words or expressions in that Act or subordinate instrument or the substitution of other words or expressions for words or expressions in that Act or subordinate instrument)— 
+> 	(a) is repealed; or 
+> 	(b) expires, lapses or otherwise ceases to have effect— the repeal, expiry, lapsing or ceasing to have effect of that Act or provision shall not, unless the contrary intention expressly appears, affect in any way the direct amendments made in the other Act or in the subordinate instrument or the operation or effect of those amendments. 
+> (2) Subsection (1) applies to a direct amendment made to a provision of an Act by another provision of that Act in the same manner as it applies to a direct amendment made to an Act by another Act.

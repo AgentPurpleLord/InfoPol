@@ -1,0 +1,1 @@
+A **person** accused of an offence, and being held **in custody** in relation to that offence, is **entitled to be granted bail** unless the **[[Bail Decision Maker]]** is **required** to **refuse bail** by the Act.

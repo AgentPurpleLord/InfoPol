@@ -1,0 +1,10 @@
+---
+cssclasses:
+  - legislation-list
+---
+> 1. The credibility rule does not apply to evidence adduced in cross-examination of a witness if the evidence could *substantially* affect the assessment of the credibility of the witness.
+> 2. Without limiting the matters to which the court may have regard for the purposes of subsection (1), *it* *is* to have regard to—
+> 	1. whether the evidence tends to prove that the witness knowingly or recklessly made a false representation when the witness was under an obligation to tell the truth; and
+> 	2. the period that has elapsed since the acts or events to which the evidence relates were done or occurred.
+
+- *It is* means must.
