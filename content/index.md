@@ -1,16 +1,15 @@
 ---
+title: Home
 share: true
+date: 2026-03-10
 ---
+
 InfoPol serves as a secondary source, providing an analysis, interpretation, or restatement of primary source materials such as legislation, Victoria Police Manuals (VPM's) and other pertinent materials relevant to the role of Victoria Police members.
 
-For a full explanation, see [[What is InfoPol]].
+The contents can be found on the left hand side. They are self-explanatory.
 
-# Table of Contents
+## Author
 
-For the full table of contents, please see the left-hand side. Each category contains numerous entries.
-1. [[10 Resources]]: Legislation PDF's and guidelines on [[14.00 Equipment|physical equipment]].
-2. [[20 Offences]]: A breakdown of various offences known to law.
-3. [[30 Legislation and Common Law]]: Annotated legislation and summaries of case law.
-4. [[40 Frontline Policing]]: Policies and procedures for front-line uniform members.
-5. [[50 Prosecuting]]: Information focusing on a police prosecutors role.
-6. [[60.00 Question and Answers]]: Legal or procedural questions and their respective answers. 
+InfoPol was created by Senior Constable Nathan HAYMES (44425). It serves as a repository and collection of knowledge over my policing career.
+
+If you have a recommendation or something you would like to see, please contact me via my internal email. 
