@@ -1,1 +1,0 @@
-*prior inconsistent statement* of a witness means a previous representation that is inconsistent with evidence given by the witness.

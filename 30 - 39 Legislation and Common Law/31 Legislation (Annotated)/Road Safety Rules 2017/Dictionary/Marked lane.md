@@ -1,1 +1,0 @@
-"marked lane" means an area of a road marked by continuous or broken lines, or rows of studs or markers, on the road surface that is designed for use by a single line of vehicles.

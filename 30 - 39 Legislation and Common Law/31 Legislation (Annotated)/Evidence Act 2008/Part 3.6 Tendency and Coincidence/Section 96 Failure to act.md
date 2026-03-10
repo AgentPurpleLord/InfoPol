@@ -1,1 +1,0 @@
->A reference in this Part to doing an act includes a reference to failing to do that act.

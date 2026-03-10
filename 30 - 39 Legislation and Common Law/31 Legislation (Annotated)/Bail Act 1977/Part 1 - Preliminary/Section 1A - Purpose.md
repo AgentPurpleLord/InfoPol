@@ -1,1 +1,0 @@
-The purpose of this Act is to provide a legislative framework for the making of decisions as to whether a person accused of an offence should be **granted** **bail**, **with** or **without** **conditions**, or **remanded** in custody.

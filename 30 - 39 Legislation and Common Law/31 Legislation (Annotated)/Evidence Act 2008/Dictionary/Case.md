@@ -1,1 +1,0 @@
-> *case* of a party means the facts in issue in respect of which the party bears the legal burden of proof.

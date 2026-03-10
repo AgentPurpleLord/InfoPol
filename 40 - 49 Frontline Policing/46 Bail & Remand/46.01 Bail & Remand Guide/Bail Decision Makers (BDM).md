@@ -1,9 +1,0 @@
-- Court (e.g. Magistrate)
-- Bail Justice (BJ)
-- Police Officer (SGT or Above or OIC Police Station)
-	- Cannot remand a **child**, **vulnerable adult** or **aboriginal person**.
-	- Must be at Court within **48 hours**, otherwise require BJ.
-	- Must provide Accused with **VP467A** upon decision making.
-	- [BAIL ACT 1977 - Section 10 Police Power to Refuse Bail](http://www6.austlii.edu.au/cgi-bin/viewdoc/au/legis/vic/consol_act/ba197741/s10.html)
-	- [BAIL ACT 1977 - Section 10AA Police Remand](http://www6.austlii.edu.au/cgi-bin/viewdoc/au/legis/vic/consol_act/ba197741/s10aa.html)
-- Sheriff or Person Authorised under Fines Reform Act

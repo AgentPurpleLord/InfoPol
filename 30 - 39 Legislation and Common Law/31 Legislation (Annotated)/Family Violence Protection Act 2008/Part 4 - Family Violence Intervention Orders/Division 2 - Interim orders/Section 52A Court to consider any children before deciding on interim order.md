@@ -1,1 +1,0 @@
-Before deciding whether to make an interim order under section 53, the court must consider whether there are any children who have been subjected to family violence committed by the respondent.

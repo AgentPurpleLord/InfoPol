@@ -1,1 +1,0 @@
-A *road user* is a driver, rider, passenger or pedestrian.

@@ -1,1 +1,0 @@
-[[Section 45 Grounds on which informant may refuse disclosure]]

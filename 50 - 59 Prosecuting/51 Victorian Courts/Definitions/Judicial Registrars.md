@@ -1,1 +1,0 @@
-"judicial registrar" means a [judicial registrar](http://classic.austlii.edu.au/au/legis/vic/consol_act/mca1989214/s3.html#judicial_registrar) of the Court appointed under [section 16C](http://www.austlii.edu.au/au/legis/vic/consol_act/mca1989214/s16c.html);

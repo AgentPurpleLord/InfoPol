@@ -1,1 +1,0 @@
-*prescribed speed detector* means a type or class of speed detector that is prescribed by regulations for the purposes of this Act;

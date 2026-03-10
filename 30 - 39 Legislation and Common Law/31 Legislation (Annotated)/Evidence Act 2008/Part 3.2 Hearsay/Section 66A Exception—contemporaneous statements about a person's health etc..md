@@ -1,2 +1,0 @@
->The hearsay rule does not apply to evidence of a [[previous representation]] made by a person if the [[representation]] was a contemporaneous representation about the person's health, feelings, sensations, intention, knowledge or state of mind.
-

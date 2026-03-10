@@ -1,1 +1,0 @@
->This Act (other than this Part) does not affect the operation of any Australian law or rule of practice so far as it permits evidence to be adduced in a way other than by witnesses giving evidence or documents being tendered in evidence.

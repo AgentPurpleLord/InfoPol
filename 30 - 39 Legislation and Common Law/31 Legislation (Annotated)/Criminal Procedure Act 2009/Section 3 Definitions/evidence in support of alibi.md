@@ -1,1 +1,0 @@
-"evidence in support of alibi" means evidence tending to show that by reason of the presence of the accused at a particular place or in a particular area at a particular time the accused was not, or was unlikely to have been, at the place where the offence is alleged to have been committed at the time of its alleged commission;

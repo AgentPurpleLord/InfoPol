@@ -1,5 +1,0 @@
-In summary prosecution matters, duplicity is typically seen where multiple charges are attached to a brief and refer to the *same act of conduct*, literally making them a 'double up.' 
-
-# Statutory Offences
-In Romeyko v Samuels (1972) 2 SASR 529 Bray CJ said (at 552):
->The true distinction, broadly speaking, it seems to me, is between a statute which penalises one or more acts, in which case two or more offences are created, and a statute which penalises one act if it possesses one or more forbidden characteristics. In the latter case there is only one offence, whether the act under consideration in fact possesses one or several of such characteristics. Of course, there will always be borderline cases and if it is clear that Parliament intended several offences to be committed if the act in question possesses more than one of the forbidden characteristics, that result will follow.

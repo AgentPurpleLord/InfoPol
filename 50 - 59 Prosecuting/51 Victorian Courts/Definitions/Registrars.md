@@ -1,1 +1,0 @@
-"registrar" means [registrar](http://classic.austlii.edu.au/au/legis/vic/consol_act/mca1989214/s3.html#registrar) of the Court;

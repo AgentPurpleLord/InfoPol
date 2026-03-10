@@ -1,1 +1,0 @@
-*previous representation* means a representation made otherwise than in the course of giving evidence in the proceeding in which evidence of the representation is sought to be adduced;

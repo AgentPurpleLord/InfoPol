@@ -1,2 +1,0 @@
-> (1) The court may, at the request of the offender or the prosecutor, call a victim who has made a victim impact statement, or a person who has made a victim impact statement on behalf of a victim, or a medical expert who made a medical report attached to a victim impact statement, to give evidence.
-> (2) A victim or other person who gives evidence under subsection (1) may be cross-examined and re-examined

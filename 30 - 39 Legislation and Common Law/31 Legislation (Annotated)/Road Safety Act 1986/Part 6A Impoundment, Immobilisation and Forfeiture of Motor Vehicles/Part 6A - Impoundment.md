@@ -1,5 +1,0 @@
-[[Section 84C - Definitions]]
-[[Section 84F - Powers of Victoria Police]]
-[[Section 84G - Seizure of motor vehicle]]
-[[Section 84O - Appeal rights]]
-[[Section 84Z - Hearing of application]]

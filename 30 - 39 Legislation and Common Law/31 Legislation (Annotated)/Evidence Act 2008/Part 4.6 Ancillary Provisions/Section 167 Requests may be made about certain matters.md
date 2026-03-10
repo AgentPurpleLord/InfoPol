@@ -1,4 +1,0 @@
->A party may make a reasonable request to another party for the purpose of determining a question that relates to— 
->(a) a previous representation; or 
->(b) evidence of a conviction of a person for an offence; or 
->(c) the authenticity, identity or admissibility of a document or thing.

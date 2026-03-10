@@ -1,1 +1,0 @@
-"encourage" includes incite, induce, persuade, urge, threaten or pressure;

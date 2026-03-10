@@ -1,1 +1,0 @@
-"incite" includes command, request, propose, advise, encourage or authorize;

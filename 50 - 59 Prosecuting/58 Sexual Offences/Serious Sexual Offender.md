@@ -1,1 +1,0 @@
-A **serious sexual offender** is a person who has been sentenced for 2 or more offences listed in a Schedule in the Act s. 8(3) SORA.

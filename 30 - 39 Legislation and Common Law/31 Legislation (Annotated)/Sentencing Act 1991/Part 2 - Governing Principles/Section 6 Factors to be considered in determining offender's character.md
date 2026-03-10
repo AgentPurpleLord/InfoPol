@@ -1,4 +1,0 @@
-> In determining the character of an offender a court may consider (among other things)— 
-> 	(a) the *number*, *seriousness*, *date*, *relevance* and *nature* of any previous findings of guilt or *convictions* of the offender; and 
-> 	(b) the *general reputation* of the offender; and 
-> 	(c) any *significant contributions* made by the offender *to the community*.

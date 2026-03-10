@@ -1,1 +1,0 @@
-***approaching***, for a driver, means approaching from any direction;

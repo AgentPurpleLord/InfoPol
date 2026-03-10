@@ -1,4 +1,0 @@
-For the purposes of section 79 of the Act, the prescribed manner of use of a digitector is that— 
-(a) the 2 vehicle detectors which form part of the digitector are positioned across the road approximately parallel to each other at a distance of 25 metres apart within a limit of error that is not greater than 75 millimetres when used with the time measuring and speed computing components of the device for determining the speed at which a motor vehicle travels on a road; and 
-(b) the digitector has been tested in accordance with regulation 42 within a period of 2 years before the occasion of its use; and 
-(c) the digitector has been sealed in accordance with regulation 43 at the time that it was last tested.

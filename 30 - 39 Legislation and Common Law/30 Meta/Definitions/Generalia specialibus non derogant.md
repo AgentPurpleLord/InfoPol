@@ -1,3 +1,0 @@
-A *specific provision* prevails when there is a conflict with a *general provision* of legislation.
-
-Smith v The Queen (1994) 181 CLR 338. at [348]: “In our view, an opposite conclusion is dictated by the principle that where there is a conflict between general and specific provisions, the specific provision prevails (generalia specialibus non derogant). That principle is based upon the presumed intention of Parliament and has, we think, a particular application where the conflict arises from different sections in the same Act.”

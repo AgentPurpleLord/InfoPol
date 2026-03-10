@@ -1,1 +1,0 @@
-An application for a family violence intervention order must be made at the proper venue of the Magistrates' Court or Children's Court.

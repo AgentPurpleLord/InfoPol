@@ -1,8 +1,0 @@
-> (1) On the application of the person who is to read aloud the victim impact statement at a sentencing hearing, on the application of the prosecutor or on its own motion, the court may direct that alternative arrangements be made for the reading aloud of a victim impact statement under section 8Q, including arrangements— 
-> 	(a) permitting the victim impact statement to be read aloud from a place other than the court room by means of a closed-circuit television or other facilities that enable communication between that place and the court room; 
-> 	(b) using screens to remove the person reading the victim impact statement from the direct line of vision of the offender; 
-> 	(c) permitting a person, chosen by the person reading the victim impact statement and approved by the court for this purpose, to be beside the person reading the victim impact statement while it is read aloud, for the purpose of providing emotional support to the person reading the victim impact statement; 
-> 	(d) permitting only persons specified by the court to be present while the victim impact statement is read aloud; 
-> 	(e) requiring legal practitioners not to robe. 
-> (2) The court may, on the application of the person who is to read aloud the victim impact statement, on the application of the prosecutor or on its own motion, revoke or vary a direction made under subsection (1). 
-> (3) For the purposes of this section, the reading aloud of a victim impact statement includes the display of material included in the victim impact statement.

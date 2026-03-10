@@ -1,6 +1,0 @@
-- A previous representation; and
-- Made by a person who is or becomes a party (including accused); and
-- *adverse to that person's interest in the outcome of the proceeding*
-- *Confession* is fully acknowledging guilt, accepting all the charge elements.
-- *Admission* is acknowledging only some of the facts or elements of the offence, not all of them.
-- 

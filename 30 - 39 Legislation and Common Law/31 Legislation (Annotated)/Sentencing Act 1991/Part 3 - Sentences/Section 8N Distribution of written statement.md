@@ -1,4 +1,0 @@
-> (1) If the victim prepares a victim impact statement, the victim must, a reasonable time before sentencing is to take place, provide a copy to the prosecutor, and the copy must include a copy of any medical report attached to the victim impact statement. 
-> (2) If the victim provides a copy of a victim impact statement and any attached medical report to the prosecutor under subsection (1), the prosecutor, as soon as practicable after receiving it, must— 
-> 	(a) file a copy of the victim impact statement and any attached medical report with the court; and 
-> 	(b) provide a copy of the victim impact statement and any attached medical report to the offender or the legal practitioner representing the offender.

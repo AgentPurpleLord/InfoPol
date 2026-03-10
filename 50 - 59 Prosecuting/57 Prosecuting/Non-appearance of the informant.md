@@ -1,8 +1,0 @@
-There is a power under the Criminal Procedure Act [[Section 76 Unconditional dismissal]], which enables the Magistrates' Court to dismiss the charges when the informant doesn't appear.
-
-The CPA allows a Prosecutor to appear on behalf of the informant, so it's arguable that this would only occur when neither the informant or prosecutor appear. However, it could be construed to mean at a contested hearing, where the informant doesn't appear, the charges could get dismissed.
-
-Director of Public Prosecution (Vic) v Horan (2022) 303 A Crim R 581, where T Forrest JA at [44] said:
->More broadly, s 79(a) creates a discretion to exercise a significant power to dismiss criminal charges. This is not a power to be exercised lightly or capriciously. It should never be used out of frustration or with a desire to punish. To do so would be contrary to the “rules of reason and justice”. I consider that, where an accused is facing criminal charges that are not trivial, this power would only be exercised in extreme circumstances. All the more so where an accused has entered a plea of guilty to those charges. Put another way, in these sorts of matters the exercise of the s 79(a) power to dismiss would be a rarity. The power to adjourn under s 79(b) and award costs if appropriate would be exercised in the vast majority of cases captured by s 79, and it should have been exercised on this occasion.
-
-You can therefore argue that realistically, if the informant has failed to appear, the matter should be adjourned with costs in the first of circumstances. It would only be cases where multiple non-appearance should incur the penalty of the charges being dismissed in this fashion. 
