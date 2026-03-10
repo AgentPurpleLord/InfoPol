@@ -1,9 +1,28 @@
-- *Are the facts being referred to relevant to the circumstances of the offending?*
-	- E.g. A murderer kills a person, what did they do with the body afterwards? Someone steals something and runs away after the offence. Someone plans an offence and uses their position / office / power imbalance to do so.
-- *Would the facts being referred to be subject to a charge? E.g. did the informant lay a charge?*
-	- If no charge was laid, then the facts should not be referred to in a summary.
+---
+title: Uncharged Acts
+---
 
-# Victorian Sentencing Manual
+Uncharged acts are acts which are alleged to be committed by the accused, but which they have not been charged for.
+
+Defence will often dispute facts which tarnish their clients reputation. Prosecution will often argue them in because they provide context.
+
+## Two limbs
+
+1. Are the facts being referred to **relevant** to the circumstances of the offending?
+2. Would the facts being referred to be subject to a charge?
+
+If a murderer kills a person, what did they do with the body afterwards becomes incredibly relevant. But ultimately, it is an 'uncharged act.'
+
+If a charge *should* have been laid for the conduct, then we can't refer to it unless that charge is laid.
+
+## Relationship evidence
+
+Uncharged acts are admissible if the purpose is to show the relationship between the accused and the victim. See R v DCC (2004) 11 VR 129; 151 A Crim R 403 (CA); R v BJC (2005) 13 VR 407; 154 A Crim R 109 (CA). Quinn v The Queen [2018] VSCA 82. Packard v The Queen [2018] VSCA 45.
+
+## Uncharged acts and sentencing
+
+Uncharged acts can be used in sentencing to inform the court that having no formal prior convictions doesn't mean the accused didn't have a criminal past. Weininger v The Queen (2003) 212 CLR 629; 196 ALR 451; 140 A Crim R 184 at [29].
+## Victorian Sentencing Manual
 The circumstances of an offence do not commence and conclude with the proven elements of the offence[^994]. Uncharged conduct or discreditable conduct may be treated as an aggravating feature of the offence, and as an indicator of increased moral culpability. But where the uncharged conduct constitutes an aggravated version of the offending or should have been alleged as a separate charge entirely, a court may not take it into account.
 
 Uncharged acts cannot be taken as aggravating factors where they warrant conviction for a more serious offence. It does not infringe that principle for a court consider the fact of a victim’s injury when sentencing for the offence of recklessly exposing an emergency worker to risk where no separate charge was brought with respect to the injury. However, where an offender stands to be sentenced separately for causing injury, that conduct cannot be taken into account in sentencing for reckless exposure offence as that would involve double punishment.[995](https://jade.io/article/829545)
