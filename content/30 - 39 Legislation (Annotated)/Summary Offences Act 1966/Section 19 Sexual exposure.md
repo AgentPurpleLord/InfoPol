@@ -1,6 +1,6 @@
 ---
 title: Section 19 Sexual exposure
-date: 2026-10-03
+date: 2026-03-10
 ---
 
 > (1) A person (A) commits an offence if—
@@ -28,4 +28,3 @@ date: 2026-10-03
 > (6) A's exposure of A's genitals is not sexual only because it is the genitals that are exposed.
 >
 > (7) In this section, a reference to genitals includes a reference to surgically altered or constructed genitals.
-

@@ -2,14 +2,17 @@
 tags:
   - legal-question
   - common-issue
+title: Failing to display P or L plates
 ---
->[!IMPORTANT] Short Answer
->Do **not** roll-up or withdraw front/rear display offences.
+> [!IMPORTANT] Short Answer
+> Do **not** roll-up or withdraw front/rear display offences.
 
-# Overview
-[[Kokas v Stanojlovic.pdf|Kokas v Stanojlovic [2021] VSCA 119:]]
+## Overview
+
+[Kokas v Stanojlovic [2021] VSCA 119](https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/vic/VSCA/2021/119.html):
+
 - Failing to display on rear and front are *separate offences*; and
-- If one of the two charges were to be withdrawn and 'rolled' into the other, it would be invalid and therefore should be withdrawn. 
+- If one of the two charges were to be withdrawn and 'rolled' into the other, it would be invalid and therefore should be withdrawn.
 
 *At paragraph 49:*
 > In this case the subject matter of reg 55(1) is the obligation to display P plates while driving, ie the “essence” of the offence is concerned with an obligation to display P plates. However, the circumstances which give rise to the offence are not defined in the opening words themselves (which do not even mention “P plates”). Rather, while reg 55(1)(a) defines when an obligation arises to display a P plate from the rear of the vehicle, reg 55(1)(b) defines when such an obligation arises in relation to the front of the vehicle. In the latter case, the obligation to display a P plate only arises in the case of a motor vehicle (other than a tractor) which is not a motor cycle.
@@ -17,7 +20,8 @@ tags:
 *At paragraph 50:*
 > The structure of the provision therefore suggests that there are two separate offences. More importantly, the phrase “other than a motor cycle” is definitional of when an obligation will arise to display a P plate facing out from the front.
 
-# Legislative Wording
+## Legislative Wording
+
 **Road Safety (Drivers) Regulations 2019 No. 017**
 *[[Regulation 48 - Learner driver must display L plates]]*
 >(1) A learner driver must not drive a motor vehicle (other than a tractor) on a highway unless— 
