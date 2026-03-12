@@ -33,7 +33,9 @@ This was confirmed in DPP (Vic)  v Smith [2010] VSCA 215 at [23]:
 >
 > - Thirdly, **a sentence of immediate imprisonment would ordinarily be warranted**, but it is recognised that there are cases where a sentence which does not involve a period of actual custody is not precluded.
 
-## [Minehan v The Queen (2010) 201 A Crim R 243](https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/nsw/NSWCCA/2010/140.html)
+## Thirteen principles of child abuse material sentencing
+
+[Minehan v The Queen (2010) 201 A Crim R 243](https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/nsw/NSWCCA/2010/140.html)
 
 At [94], Hulme J sets out the following principles:
 
